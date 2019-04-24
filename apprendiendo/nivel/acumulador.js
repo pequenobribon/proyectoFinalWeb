@@ -22,6 +22,9 @@ function getData(){
 	if(codigo=="a1c3f1"){
 		document.getElementById("iframeNivel1").src="https://www.youtube.com/embed/-jxO22-dakg";
 	}
+	if(codigo=="a1c1f2"){
+		document.getElementById("iframeNivel1").src="../pdf/TutorialPython2.pdf";
+	}
 	
 }
 
