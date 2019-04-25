@@ -8,8 +8,12 @@ function desplegarMensaje(){
 	if(respuesta[0].checked){
 		contador++;
 	}
+	var respuesta=document.getElementsByName("resp3");
+	if(respuesta[1].checked){
+		contador++;
+	}
 	alert("La calificacion obtenida es: "+contador);
-	if(contador == 2){
-		alert("Eres la verg");
+	if(contador >= 2){
+		alert("Eres la verg de mono");
 	}
 }

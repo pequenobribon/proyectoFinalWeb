@@ -19,6 +19,9 @@ p{
 	font-family:"Arial Narrow";
 	color: #fd352b
 }
+.centrado{
+	text-align: center;
+}
 body{
 	background-color:#6cc1c6
 }
