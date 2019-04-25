@@ -165,4 +165,43 @@ section.contenido{
   margin: auto;
   overflow:hidden;
 }
+.ayubarra{
+	width: 400px;
+	height:40px;
+	top:20px;
+	left:5px;
+	border:1px solid black;
+}
+.novbarra{
+	width: 815px;
+	height:40px;
+	top:20px;
+	left:5px;
+	border:1px solid black;
+}
+.caja1{
+	position:absolute;
+	border:1px solid #000000;
+	width: 400px;
+	height: 500px;
+	top:60px;
+	text-align:center;
+}
+.caja2{
+	position:absolute;
+	border:1px solid #000000;
+	width: 400px;
+	height: 500px;
+	top:60px;
+	left:420px;
+}
+.caja3{
+	position:absolute;
+	border:1px solid #000000;
+	width: 400px;
+	height: 500px;
+	top:60px;
+	left:840px;
+}
+
 
