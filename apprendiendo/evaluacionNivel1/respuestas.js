@@ -4,11 +4,11 @@ function desplegarMensaje(){
 	if(respuesta[0].checked){
 		contador++;
 	}
-	var respuesta=document.getElementsByName("resp2");
+	respuesta=document.getElementsByName("resp2");
 	if(respuesta[0].checked){
 		contador++;
 	}
-	var respuesta=document.getElementsByName("resp3");
+	respuesta=document.getElementsByName("resp3");
 	if(respuesta[1].checked){
 		contador++;
 	}
