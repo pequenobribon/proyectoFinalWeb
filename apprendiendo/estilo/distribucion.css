@@ -5,6 +5,7 @@
 
 header{
 	background: rgba(0,0,0,0.2);
+	background-position:center;
 	width: 100%;
 	position: fixed;
 	z-index: 100;
@@ -31,6 +32,7 @@ h2.blanco{
 }
 nav {
   float: left; /* Desplazamos el nav hacia la izquierda */
+ 	
 }
 
 nav ul {
